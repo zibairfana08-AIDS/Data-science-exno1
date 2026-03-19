@@ -112,4 +112,4 @@ df
 
 
 # Result
-          <<include your Result here>>
+          Thus the data cleaning process has been done successfully
